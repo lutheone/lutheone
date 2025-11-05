@@ -2,7 +2,7 @@
 
 <p>🎓 Graduated in Systems Analysis and Development at <a href="https://www.unifecaf.com.br" target="blank_">UniFecaf</a></p>
 <p>📚 Studing BackEnd, Java, Spring, AWS.
-<p>🔠 <a href="https://www.ef.com.br/test/results-advanced/">C1-C2 Advanced English Level</a></p>
+<p>🔠 <a href="https://cert.efset.org/en/yPgKsB">B2-C1 Advanced English Level</a></p>
 
 ##
 
